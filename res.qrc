@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pic1.gif</file>
+        <file>wall.png</file>
+        <file>bei.png</file>
+        <file>main.png</file>
+        <file>naci.png</file>
+        <file>xiaopihai.png</file>
+        <file>tow.png</file>
+        <file>start1.png</file>
+        <file>back1.png</file>
+        <file>succed1.png</file>
+        <file>title1.png</file>
+        <file>welcom1.png</file>
+        <file>bei1.png</file>
+        <file>f1.png</file>
+        <file>f2.png</file>
+    </qresource>
+</RCC>
